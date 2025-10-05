@@ -28,7 +28,7 @@ SQL (PostgreSQL) for quering data and PowerBI for data visualization
   - Ontario receives the majority of immigrants, followed by British Columbia and Alberta.
 
 **SQL Analysis**
-SQL Analysis (Queries go into sql_queries.sql)
+SQL Analysis (Queries go into [sql_queries.sql](./sql_queries.sql))
 
 Examples of queries include:
   - Total immigrants to Canada each year (trend analysis).
